@@ -1,0 +1,253 @@
+{
+  "front/member/login": [
+    {
+      "sucess": {
+        "data": {
+          "accessToken": "a_988574d96d13243a11ae9095342d4866",
+          "info": {
+            "id": 26832,
+            "login_time": "1598848438",
+            "balance": "5.00",
+            "user_email": ""
+          }
+        },
+        "code": 0,
+        "result": true
+      }
+    },
+    {
+      "error": {
+        "result": false,
+        "data": "",
+        "msg": "账号或密码不正确",
+        "code": 99999
+      }
+    },
+    {
+      "shaocan": {
+        "result": false,
+        "data": "",
+        "msg": "缺少参数",
+        "code": 10012
+      }
+    }
+  ],
+  "front/member/login-by-phone-code": [
+    {
+      "sucess": {
+        "data": {
+          "accessToken": "a_707950ea6aba4e786e9d4618e0d0211b",
+          "info": {
+            "id": 26834,
+            "user_status": "1",
+            "balance": "5.00",
+            "user_email": "",
+            "phone": "13232323211"
+          },
+          "is_new": "1",
+          "coupon_list": [
+            {
+              "id": "674",
+              "user_id": "26834",
+              "scene_id": "1",
+              "coupon_id": "23",
+              "coupon_code": "GK3N2H",
+              "title": "满10减5",
+              "type": "0",
+              "rate": null,
+              "full_money": 10,
+              "money": 5,
+              "use_type": "0",
+              "start_date": "1598949799",
+              "end_date": "1599554599",
+              "use_status": "2",
+              "status": "1",
+              "order_id": null,
+              "order_no": null,
+              "order_full_money": null,
+              "order_money": null,
+              "create_time": "1598949799",
+              "use_time": null,
+              "remark": null,
+              "use_status_txt": "未使用",
+              "status_txt": "正常",
+              "effect_date": "2020-09-01 16:43-2020-09-08 16:43",
+              "create_date": "2020-09-01 16:43",
+              "type_title": "满10减5",
+              "type_txt": "满减券",
+              "use_type_txt": "全场商品",
+              "effect_date_short": "09.01 16:43-09.08 16:43"
+            },
+            {
+              "id": "675",
+              "user_id": "26834",
+              "scene_id": "1",
+              "coupon_id": "104",
+              "coupon_code": "M79QG2",
+              "title": "满9999.99减999.99",
+              "type": "0",
+              "rate": null,
+              "full_money": 9999.99,
+              "money": 999.99,
+              "use_type": "2",
+              "start_date": "1598949799",
+              "end_date": "1599381799",
+              "use_status": "2",
+              "status": "1",
+              "order_id": null,
+              "order_no": null,
+              "order_full_money": null,
+              "order_money": null,
+              "create_time": "1598949799",
+              "use_time": null,
+              "remark": null,
+              "use_status_txt": "未使用",
+              "status_txt": "正常",
+              "effect_date": "2020-09-01 16:43-2020-09-06 16:43",
+              "create_date": "2020-09-01 16:43",
+              "type_title": "满9999.99减999.99",
+              "type_txt": "满减券",
+              "use_type_txt": "特卖商品",
+              "effect_date_short": "09.01 16:43-09.06 16:43"
+            }
+          ]
+        },
+        "code": 0,
+        "result": true
+      }
+    }
+  ],
+  "front/member/info": [
+    {
+      "sucess": {
+        "data": {
+          "id": 26650,
+          "user_email": "1102055693@qq.com",
+          "nickname": "dsjkdsjakdajkdhkajsdhakjjdsdjk",
+          "balance": 2.9,
+          "balance_old": "0.00",
+          "consume_total": 0,
+          "consume_total_old": "0.00",
+          "open_box_num": 0,
+          "free_open_num": "0",
+          "recharge_total": 0,
+          "recharge_total_old": "0.00",
+          "recharge_total_rmb": "0.00",
+          "recharge_num": 0,
+          "avatar": "",
+          "no_shopping": "0",
+          "transaction_url": "https://steamcommunity.com/tradeoffer/new/?partner=352755135&token=7ljjejNl",
+          "channel": "",
+          "is_virtual": "0",
+          "promo_code": "XSNQX",
+          "promo_by_userid": "0",
+          "promo_by_code": "",
+          "promo_level": "0",
+          "mark": null,
+          "mark_time": "0",
+          "create_time": "2020-07-30 10:16:12",
+          "give_ratio": 0
+        },
+        "code": 0,
+        "result": true
+      }
+    }
+  ],
+  "front/member/my-backpack": [
+    {
+      "sucess": {
+        "data": {
+          "list": [],
+          "total": 0
+        },
+        "code": 0,
+        "result": true
+      }
+    }
+  ],
+  "front/member/open-box-record": [
+    {
+      "sucess": {
+        "data": {
+          "list": [],
+          "total": 0
+        },
+        "code": 0,
+        "result": true
+      }
+    }
+  ],
+  "front/member/goods-backpack": [
+    {
+      "sucess": {
+        "data": {
+          "list": [],
+          "total": 0
+        },
+        "code": 0,
+        "result": true
+      }
+    }
+  ],
+  "front/default/notice": [
+    {
+      "sucess": {
+        "data": {
+          "title": "公告标题",
+          "content": "公告公告公告"
+        },
+        "code": 0,
+        "result": true
+      }
+    }
+  ],
+  "front/sale/index": [
+    {
+      "sucess": {
+        "data": {
+          "tag": {
+            "start_time": "1598932800",
+            "end_time": "1598954400",
+            "batch_list": [
+              {
+                "checked": 1,
+                "start": 1598932800,
+                "sale_id": 40,
+                "batch": 1,
+                "batch_name": "12点场",
+                "status": 2,
+                "goods_count": 2
+              }
+            ]
+          },
+          "list": [
+            {
+              "skin_name": "锈蚀烈焰",
+              "exter": "崭新出厂",
+              "quality": "军规级",
+              "jewelry_type": "手枪",
+              "jewelry_class": "普通",
+              "jewelry_name": "沙漠之鹰",
+              "img": "https://hubskins.oss-cn-shenzhen.aliyuncs.com/prod/cos/202001/f4f06fb8f1b0fc141703bbc04621b8bf.png",
+              "quality_id": 5,
+              "buff_id": 33836,
+              "exter_id": 1,
+              "jewelry_class_id": 1,
+              "name": "沙漠之鹰 | 锈蚀烈焰",
+              "goods_name": "沙漠之鹰 | 锈蚀烈焰（崭新出厂）",
+              "old_price": 3.9,
+              "price": 3.19,
+              "total": 2,
+              "buyed": 0,
+              "status": 2,
+              "sale_id": "40"
+            }
+          ],
+          "total": 2
+        },
+        "code": 0,
+        "result": true
+      }
+    }
+  ]
+}

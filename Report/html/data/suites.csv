@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jul 09 20:59:06 CST 2023","Sun Jul 09 20:59:06 CST 2023","0","Run","test_run_case","TestRunCaseDdt","","","test_main_case[data4]",""
+"passed","Sun Jul 09 20:59:06 CST 2023","Sun Jul 09 20:59:06 CST 2023","0","Run","test_run_case","TestRunCaseDdt","","","test_main_case[data0]",""
+"passed","Sun Jul 09 20:59:06 CST 2023","Sun Jul 09 20:59:06 CST 2023","0","Run","test_run_case","TestRunCaseDdt","","","test_main_case[data1]",""
+"failed","Sun Jul 09 20:59:06 CST 2023","Sun Jul 09 20:59:06 CST 2023","233","Run","test_run_case","TestRunCaseDdt","","","test_main_case[data3]",""
+"passed","Sun Jul 09 20:59:06 CST 2023","Sun Jul 09 20:59:06 CST 2023","0","Run","test_run_case","TestRunCaseDdt","","","test_main_case[data5]",""
+"passed","Sun Jul 09 20:59:06 CST 2023","Sun Jul 09 20:59:06 CST 2023","0","Run","test_run_case","TestRunCaseDdt","","","test_main_case[data2]",""
+"failed","Sun Jul 09 20:59:06 CST 2023","Sun Jul 09 20:59:06 CST 2023","146","Run","test_run_case","TestRunCaseDdt","","","test_main_case[data6]",""

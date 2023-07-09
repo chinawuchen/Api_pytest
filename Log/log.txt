@@ -1,0 +1,33 @@
+
+第4条用例实际结果与预期结果不一致:
+预期结果:"msg": "昵称修改成功"
+  实际结果:{'result': False, 'data': '', 'msg': 'token失效', 'code': 10006, 'toLogin': True}
+
+第4条用例报错:
+assert False
+Traceback (most recent call last):
+  File "/Users/wuchen/Documents/Python_XM/VS/Api_pytest/Run/test_run_case.py", line 126, in test_main_case
+    raise e
+  File "/Users/wuchen/Documents/Python_XM/VS/Api_pytest/Run/test_run_case.py", line 111, in test_main_case
+    assert result
+AssertionError: assert False
+
+第7条用例实际结果与预期结果不一致:
+预期结果:$.data.list[*].id>[12085, 12076, 12070, 12065, 12062, 12061, 12060, 12059, 12058, 12057, 12038, 12037]
+  实际结果:{'result': False, 'data': '', 'msg': 'token失效', 'code': 10006, 'toLogin': True}
+
+第7条用例报错:
+assert False
+Traceback (most recent call last):
+  File "/Users/wuchen/Documents/Python_XM/VS/Api_pytest/Run/test_run_case.py", line 219, in test_main_case
+    raise e
+  File "/Users/wuchen/Documents/Python_XM/VS/Api_pytest/Run/test_run_case.py", line 204, in test_main_case
+    assert result
+AssertionError: assert False
+assert False
+Traceback (most recent call last):
+  File "/Users/wuchen/Documents/Python_XM/VS/Api_pytest/Run/test_run_case.py", line 219, in test_main_case
+    raise e
+  File "/Users/wuchen/Documents/Python_XM/VS/Api_pytest/Run/test_run_case.py", line 204, in test_main_case
+    assert result
+AssertionError: assert False
