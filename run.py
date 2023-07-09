@@ -33,4 +33,4 @@ if __name__ == '__main__':
     open_report_cmd = "allure open %s" % (html_report_path)
     shell.invoke(run_test_cmd)
     # 打开测试报告
-    shell.invoke(open_report_cmd)
+    # shell.invoke(open_report_cmd)
