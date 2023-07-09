@@ -47,7 +47,6 @@ class TestRunCaseDdt(object):
         get_cookie = None
         header = None
         depend_data = None
-
         try:
             is_run = data[int(hi.get_value("run","constant"))]  # 获取是否执行
             # 根据is_run判断该条用例是否执行
