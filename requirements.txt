@@ -1,0 +1,6 @@
+configparser
+pytest
+jsonpath-rw
+jsonpath
+deepdiff
+openpyxl
