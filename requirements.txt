@@ -1,6 +1,12 @@
-configparser
 pytest
+pytest-xdist
+pytest-ordering
+pytest-rerunfailures
+allure-pytest
+configparser
 jsonpath-rw
 jsonpath
 deepdiff
 openpyxl
+
+
