@@ -6,9 +6,9 @@
 第4条用例报错:
 assert False
 Traceback (most recent call last):
-  File "/Users/wuchen/Documents/Python_XM/VS/Api_pytest/Run/test_run_case.py", line 126, in test_main_case
+  File "/Users/wuchen/Documents/Python_XM/VS/Api_pytest/Run/test_run_case.py", line 118, in test_main_case
     raise e
-  File "/Users/wuchen/Documents/Python_XM/VS/Api_pytest/Run/test_run_case.py", line 111, in test_main_case
+  File "/Users/wuchen/Documents/Python_XM/VS/Api_pytest/Run/test_run_case.py", line 103, in test_main_case
     assert result
 AssertionError: assert False
 
@@ -19,15 +19,15 @@ AssertionError: assert False
 第7条用例报错:
 assert False
 Traceback (most recent call last):
-  File "/Users/wuchen/Documents/Python_XM/VS/Api_pytest/Run/test_run_case.py", line 219, in test_main_case
+  File "/Users/wuchen/Documents/Python_XM/VS/Api_pytest/Run/test_run_case.py", line 211, in test_main_case
     raise e
-  File "/Users/wuchen/Documents/Python_XM/VS/Api_pytest/Run/test_run_case.py", line 204, in test_main_case
+  File "/Users/wuchen/Documents/Python_XM/VS/Api_pytest/Run/test_run_case.py", line 196, in test_main_case
     assert result
 AssertionError: assert False
 assert False
 Traceback (most recent call last):
-  File "/Users/wuchen/Documents/Python_XM/VS/Api_pytest/Run/test_run_case.py", line 219, in test_main_case
+  File "/Users/wuchen/Documents/Python_XM/VS/Api_pytest/Run/test_run_case.py", line 211, in test_main_case
     raise e
-  File "/Users/wuchen/Documents/Python_XM/VS/Api_pytest/Run/test_run_case.py", line 204, in test_main_case
+  File "/Users/wuchen/Documents/Python_XM/VS/Api_pytest/Run/test_run_case.py", line 196, in test_main_case
     assert result
 AssertionError: assert False

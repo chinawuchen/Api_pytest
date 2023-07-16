@@ -1,0 +1,7 @@
+[31m[1mERROR   [0m root:log.py:46 assert False
+Traceback (most recent call last):
+  File "/Users/wuchen/Documents/Python_XM/VS/Api_pytest/Run/test_run_case.py", line 211, in test_main_case
+    raise e
+  File "/Users/wuchen/Documents/Python_XM/VS/Api_pytest/Run/test_run_case.py", line 196, in test_main_case
+    assert result
+AssertionError: assert False
